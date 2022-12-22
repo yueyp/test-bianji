@@ -1,2 +1,1 @@
-console.log("f1")
-console.log("m1")
+console.log("4")
