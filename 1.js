@@ -1,2 +1,1 @@
-console.log("多余的")
-console.log("sit8")
+console.log("m1")
